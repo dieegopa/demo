@@ -1,2 +1,4 @@
-package demo;public class C8 {
+package demo;
+
+public class C8 {
 }
